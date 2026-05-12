@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Aksh Rathi
 
-<!--
-**AshStrive/AshStrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+* BTech Computer Science graduate, DIT University
+* Interested in Backend Development, Business Analysis, and building products
+* Currently building real-world Java and Android projects to solve practical problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+* Tech: Java,  Spring Boot, SQL, HTML, CSS, JavaScript
+* Tools: GitHub, IntelliJ IDEA, VS Code
+* Currently Learning: System Design, APIs, Android Development
+
+📌 Current Projects
+
+* 📰 Inshorts Clone — News application with clean UI and category filtering
+* 📱 EssenScanner — Barcode-based food health scanner Android app
+* 🤖 AI-integrated utility apps and backend-focused projects
+
+🤝 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/akshrathi7/
+* LeetCode: https://leetcode.com/u/akshh718/
+
+
+⭐ *Always learning, and improving.*
