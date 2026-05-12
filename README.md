@@ -18,10 +18,4 @@
 * 📱 EssenScanner — Barcode-based food health scanner Android app
 * 🤖 AI-integrated utility apps and backend-focused projects
 
-🤝 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/akshrathi7/
-* LeetCode: https://leetcode.com/u/akshh718/
-
-
 ⭐ *Always learning, and improving.*
